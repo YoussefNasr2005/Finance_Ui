@@ -11,14 +11,6 @@ Focused on **clean UI, reusable components, and pixel-perfect implementation**.
 
 ## 📱 Preview
 
-### Main Screens
-
-| Home | Statistics | Cards |
-|------|-----------|-------|
-| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/stats.png" width="250"/> | <img src="screenshots/cards.png" width="250"/> |
-
----
-
 ## 📸 More Screenshots
 
 | Screen 1 | Screen 2 | Screen 3 |
