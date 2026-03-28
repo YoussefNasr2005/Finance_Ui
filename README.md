@@ -1,17 +1,53 @@
-# finance_ui
+<div align="center">
 
-A new Flutter project.
+# 💳 Finance UI — Flutter
 
-## Getting Started
+A modern **Flutter UI showcase** for a personal finance application built from a real Figma design.  
+Focused on **clean UI, reusable components, and pixel-perfect implementation**.
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📱 Preview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Main Screens
+
+| Home | Statistics | Cards |
+|------|-----------|-------|
+| <img src="screenshots/home.png" width="250"/> | <img src="screenshots/stats.png" width="250"/> | <img src="screenshots/cards.png" width="250"/> |
+
+---
+
+## 📸 More Screenshots
+
+| Screen 1 | Screen 2 | Screen 3 |
+|----------|----------|----------|
+| <img src="assets/screenshots/photo1.jpeg" width="200"/> | <img src="assets/screenshots/photo2.jpeg" width="200"/> | <img src="assets/screenshots/photo3.jpeg" width="200"/> |
+
+| Screen 4 | Screen 5 |
+|----------|----------|
+| <img src="assets/screenshots/photo4.jpeg" width="250"/> | <img src="assets/screenshots/photo5.jpeg" width="250"/> |
+
+---
+
+## 🚀 Features
+
+- 🎨 Light & Dark Theme System with smooth switching  
+- 🧩 Reusable Component-Based Architecture  
+- 📐 Pixel-perfect UI from Figma design  
+- 📊 Interactive charts using `fl_chart`  
+- 📱 Fully responsive design  
+
+---
+
+## 🧠 What I Learned
+
+- Structuring scalable Flutter UI projects  
+- Building clean theme systems  
+- Converting Figma designs to production UI  
+- Writing reusable and maintainable widgets  
+
+---
+
+## 📁 Project Structure
