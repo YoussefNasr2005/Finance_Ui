@@ -42,24 +42,24 @@ Focused on **clean UI, reusable components, and pixel-perfect implementation**.
 
 ---
 
-## 📁 Project Structure
+📁 Project Structure
 
+lib/
 ├── core/
-│ ├── app_widgets/ # Reusable UI components
-│ ├── styling/ # Theme, colors, typography
-│ └── routing/ # Navigation (go_router)
-│
+│   ├── app_widgets/     # Reusable UI components
+│   ├── styling/         # Themes, colors, typography
+│   └── routing/         # Navigation (go_router)
 └── screens/
-├── features/
-│ └── auth/
-├── home.dart
-├── cards_page.dart
-├── main_screen.dart
-└── profile_page.dart
+    ├── features/
+    │   └── auth/        # Login & Register screens
+    ├── home.dart
+    ├── cards_page.dart
+    ├── main_screen.dart
+    └── profile_page.dart
 
 ---
 
-## 📦 Packages
+📦 Packages Used
 
 - `flutter_screenutil` — responsive UI  
 - `go_router` — navigation  
