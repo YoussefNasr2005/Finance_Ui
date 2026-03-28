@@ -43,3 +43,37 @@ Focused on **clean UI, reusable components, and pixel-perfect implementation**.
 ---
 
 ## 📁 Project Structure
+
+├── core/
+│ ├── app_widgets/ # Reusable UI components
+│ ├── styling/ # Theme, colors, typography
+│ └── routing/ # Navigation (go_router)
+│
+└── screens/
+├── features/
+│ └── auth/
+├── home.dart
+├── cards_page.dart
+├── main_screen.dart
+└── profile_page.dart
+
+---
+
+## 📦 Packages
+
+- `flutter_screenutil` — responsive UI  
+- `go_router` — navigation  
+- `carousel_slider` — UI sliders  
+- `fl_chart` — charts  
+- `flutter_svg` — SVG support  
+
+---
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/YoussefNasr2005/finance_ui.git
+cd finance_ui
+flutter pub get
+flutter run
+
